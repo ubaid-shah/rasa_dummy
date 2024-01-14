@@ -1,0 +1,6 @@
+[
+  {
+    "name": "course_name",
+    "pattern": "(\\bthe\\ python\\ developer\\b|\\bthe\\ SQL\\ developer\\b|\\bthe\\ Full\\ Stack\\ developer\\b)"
+  }
+]
